@@ -54,6 +54,14 @@ Take 4 screenshots: (1) launch page, (2) when Skills section is displayed, (3) w
 
 Submission: Zip the 4 screenshots with the root folder of the project, and submit the single zipped folder.
 
+![p](https://github.com/bell-kevin/about_me_web_app/blob/main/screenshots/1.PNG)
+
+![p](https://github.com/bell-kevin/about_me_web_app/blob/main/screenshots/2.PNG)
+
+![p](https://github.com/bell-kevin/about_me_web_app/blob/main/screenshots/3.PNG)
+
+![p](https://github.com/bell-kevin/about_me_web_app/blob/main/screenshots/4.PNG)
+
 
 == We're Using GitHub Under Protest ==
 
